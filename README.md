@@ -9,7 +9,7 @@ User can swipe across the map to see various places of occurance.
 ### Technologies
 
 1. React JS
-2. React Leaflet [Library for Maps]
+2. React Leaflet [React Components for Leaflet Maps]
 3. HTML, CSS
 
 ### Setup
@@ -25,5 +25,3 @@ npm start
 #### Production build
 
 npm run build
-
-## Tip
